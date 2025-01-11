@@ -1,5 +1,5 @@
 +++
-title = 'Posts'
+title = 'posts'
 date = 2025-01-10T00:23:28-08:00
 draft = false 
 author = 'vange'
