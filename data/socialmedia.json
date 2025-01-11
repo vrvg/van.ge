@@ -1,0 +1,12 @@
+{ "accounts" :
+	[
+		{
+			"name": "twitter",
+			"url": "https://twitter.com/v4n63"
+		},
+		{
+			"name": "linkedin",
+			"url": "https://linkedin.com/in/vrvg"
+		}
+	]
+}

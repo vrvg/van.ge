@@ -1,0 +1,24 @@
+baseURL = 'https://van.ge/'
+languageCode = 'en-us'
+title = "ne'huatl"
+theme = 'univer'
+
+pagination.pagerSize = 10
+
+[params]
+	author = 'vange'
+	description = 'clon digital'
+
+	gh_url = 'https://api.github.com/users'
+	gh_user = 'vrvg'
+
+[permalinks]
+	posts = 'posts/:year/:month/:slug/'
+	year = '/posts/:slug'
+	month = '/posts/:slug'
+
+[taxonomies]
+	year = 'year'
+	month = 'month'
+	tag = 'tags'
+	category = 'categories'
